@@ -1,0 +1,6 @@
+telethon==1.33.0
+python-dotenv==1.0.0
+streamlit
+azure-identity
+azure-ai-agents
+
